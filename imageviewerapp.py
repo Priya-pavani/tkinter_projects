@@ -1,3 +1,9 @@
+'''
+Hello I am P. Lakshmi sai priya. This file is about image viewer app. Here you have to change the paths to the image files.
+This project is dine at june 6 2023, kindkly check if any changes are required in the future as the modules are always updating
+'''
+
+
 from tkinter import *
 #from tkinter import ttk
 from PIL import Image, ImageTk

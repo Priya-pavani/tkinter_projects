@@ -1,3 +1,6 @@
+
+""" This is not a project but a mere excercise to open files and display them in tkinter window"""
+
 from tkinter import *
 from PIL import Image,ImageTk
 from tkinter import messagebox

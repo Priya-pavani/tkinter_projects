@@ -9,7 +9,7 @@ So, here are the list of projects that I have build :
 
 	1)Image viewer app using tkinter
 
-	            remaining coming soon.................................
+	2)Opening desired image (it is not a project but just an exercise to open desired files in our tkinter window)
 
 
 

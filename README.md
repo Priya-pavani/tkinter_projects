@@ -11,5 +11,10 @@ So, here are the list of projects that I have build :
 
 	2)Opening desired image (it is not a project but just an exercise to open desired files in our tkinter window)
 
+  	3) Database app ( If you are running the program for the first time then you must takeout the comment that creates the table in the data base
+   			  after running it one time you can comment it out for further interpretations.)
+
+ 	4) Weather app (coming soon..........................................................)
+
 
 
